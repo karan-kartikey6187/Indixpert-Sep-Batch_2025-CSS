@@ -1,0 +1,10 @@
+span[role="button"],
+[role="link"] {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+[role="heading"] {
+    color: purple;
+}
